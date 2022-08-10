@@ -1,0 +1,27 @@
+Java version:
+Java 11 / Java1.8 - Only these version are compatible with Jenkins
+
+Eclipse IDE:
+2022-03
+
+Course Structure:
+Day1: Java introduction
+Day2: Java & Eclipse installtion
+Day3: Variables and data types, Operators
+Day4: Variables and data types, Operators
+Day5: Operators & Type casting, type conversion
+Day6: String methods
+Day7: Conditional statements, Switch case
+Day8: Do While & while Loops, For loops
+Day9: Arrays
+Day10: Static and Non-static concepts
+Day11: Constructor, Access modifiers
+Day12: Oops concepts
+Day13: Oops concepts
+Day14: Exception handling
+Day15: Working with data resources
+
+data type		variable	assignment		value
+char 			c 		= 			10000; //initialization
+
+
